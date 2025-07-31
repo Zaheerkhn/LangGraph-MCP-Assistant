@@ -1,0 +1,14 @@
+langgraph
+langchain-core
+langchain-groq
+requests
+python-dotenv
+pydantic
+rich
+mcp
+fastmcp
+httpx
+asyncio
+langchain_mcp
+aiohttp
+langchain-mcp-adapters
